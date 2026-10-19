@@ -22,9 +22,9 @@ A frontend redesign in plain PHP, HTML, CSS and JavaScript, done with the design
 
 | Before | After |
 | --- | --- |
-| ![Old DMA login page](images/portal-before.png) | ![New login page](images/portal-after.png) |
+| ![Old DMA login page](portal-before.png) | ![New login page](portal-after.png) |
 
-![Customer dashboard](images/portal-dashboard.png)
+![Customer dashboard](portal-dashboard.png)
 
 *The dashboard after login, shown with a demo account.*
 
